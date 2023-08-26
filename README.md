@@ -20,9 +20,24 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheezcyj&layout=compact&theme=gruvbox)
 
+<br/>
+
 #
 
-### 📚 Stacks 📚
+<br/>
+
+### 💡 About me 💡
+<img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/x-000000?style=flat-square&logo=x&logoColor=white"/>
+
+<br/><br/>
+
+#
+
+<br/>
+
+### 📚 My Tech Stacks 📚
 
 #### Frontend
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -70,10 +85,6 @@
 <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
 
-
-
-
-
-
+<br/>
 
 </div>
