@@ -87,6 +87,7 @@
 <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?style=flat-square&logo=Adobe Illustrator&logoColor=white"/>
 <img src="https://img.shields.io/badge/rhinoceros-801010?style=flat-square&logo=rhinoceros&logoColor=white"/>
+<img src="https://img.shields.io/badge/keyshot-40AEF0?style=flat-square&logo=keyshot&logoColor=white"/>
 
 <br/><br/>
 
