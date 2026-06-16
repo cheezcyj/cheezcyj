@@ -4,7 +4,7 @@
 
 <br/>
 
-#### 🌱 I'm currently learning web development and design 🌱
+#### 🌱 I'm currently learning web development and web design 🌱
 
 <br/>
 
