@@ -12,7 +12,7 @@
 
 <br/>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcheezcyj%2Fhit-counter&count_bg=%23FFBB00&title_bg=%23626262&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fcheezcyj&label=cheezcyj&icon=github&color=%23ffc107&message=&style=flat&tz=localtime)
 
 <br/>
 
