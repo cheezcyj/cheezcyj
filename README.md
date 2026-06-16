@@ -83,12 +83,17 @@
 <img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=slack&logoColor=white"/>
 
 #### design
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat-square&logoColor=white"/>
-<img src="https://img.shields.io/badge/rhinoceros-801010?style=flat-square&logo=rhinoceros&logoColor=white"/>
-<img src="https://img.shields.io/badge/keyshot-40AEF0?style=flat-square&logo=keyshot&logoColor=white"/>
+<img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=flat-square&logoColor=white"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white"/>
+<img src="https://img.shields.io/badge/Rhinoceros-801010?style=flat-square&logo=rhinoceros&logoColor=white"/>
+<img src="https://img.shields.io/badge/KeyShot-40AEF0?style=flat-square&logoColor=white"/>
 
 <br/><br/>
 
