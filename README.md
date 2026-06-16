@@ -12,7 +12,8 @@
 
 <br/>
 
-![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fcheezcyj&label=cheezcyj&icon=github&color=%23ffc107&message=&style=flat&tz=localtime)
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fcheezcyj&label=cheezcyj+-+hits+&icon=github&color=%23ffc107&message=&style=flat&tz=localtime)
+
 
 <br/>
 
