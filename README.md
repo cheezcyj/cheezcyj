@@ -4,7 +4,7 @@
 
 <br/>
 
-#### 🌱 I'm currently Frontend engineer · Web Publisher · Web Designer 🌱
+#### 🌱 I'm currently Frontend Engineer · Web Publisher · Web Designer 🌱
 
 <br/>
 
