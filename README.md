@@ -125,7 +125,7 @@
 
 <br/>
 
-#### Design
+#### Design 2D/3D
 
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=flat-square&logoColor=white"/>
