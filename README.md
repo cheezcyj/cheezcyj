@@ -38,7 +38,7 @@
 
 <br/>
 
-### 📚 My Tech Stacks 📚
+### 🛠 My Tech Stacks 📚
 
 #### Frontend
 
