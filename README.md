@@ -4,7 +4,7 @@
 
 <br/>
 
-#### 🌱 I'm currently learning web development and web design, web publishing 🌱
+#### 🌱 I'm currently Frontend Learner · Web Publisher · Web Design Enthusiast 🌱
 
 <br/>
 
@@ -23,16 +23,39 @@
 
 <br/>
 
-#
+---
 
 <br/>
 
 ### 💡 About me 💡
 <img src="https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/portfolio-FFB000?style=flat-square&logo=notion&logoColor=black"/>
+
+<br/>
+
 <img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/>
 <img src="https://img.shields.io/badge/x-000000?style=flat-square&logo=x&logoColor=white"/>
 
 <br/><br/>
+
+#
+
+<br/>
+
+### 🎯 Career Focus
+
+<br/>
+
+| Area | Focus |
+|---|---|
+| Web Publishing | HTML/CSS markup, responsive layouts, and web standards |
+| Frontend | JavaScript, DOM manipulation, and UI interactions |
+| Web Design | UI and content design using Figma, Photoshop, and Illustrator |
+| Database | SQL, CRUD structure, data retrieval, and basic analysis |
+| Collaboration | Project collaboration using GitHub, Notion, and Slack |
+
+<br/>
 
 #
 
