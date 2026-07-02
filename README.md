@@ -17,9 +17,9 @@
 
 <br/>
 
-![ChoeYooJeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheezcyj&show_icons=true&theme=gruvbox)
+![ChoeYooJeong's GitHub stats](https://github-stats-extended.vercel.app/api?username=cheezcyj&show_icons=true&theme=gruvbox)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheezcyj&layout=compact&theme=gruvbox)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=cheezcyj&layout=compact&theme=gruvbox)
 
 <br/>
 
